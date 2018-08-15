@@ -1,7 +1,7 @@
-# React脚手架
+# 管理平台
 
 ### Des
-    react-cli脚手架，解决react环境搭建麻烦
+    管理平台汇总
 
 ### 技术站
 * react16
