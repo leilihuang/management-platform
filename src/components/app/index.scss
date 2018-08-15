@@ -1,0 +1,24 @@
+@import 'ROOT/static/css/index.scss';
+
+.ant-layout{
+ .ant-layout-has-sider{
+     position: absolute;
+     top: 64px;
+     width: 100%;
+     left: 0;
+     bottom: 0;
+ }
+ .left-menu-box{
+     background: #fff;
+ }
+}
+.header{
+    .logo{
+        width: 120px;
+        height: 31px;
+        margin: 16px 24px 16px 0;
+        float: left;
+        background: url('../../static/images/logo.png') center no-repeat;
+        background-size: cover;
+    }
+}
